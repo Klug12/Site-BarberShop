@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React
+build/
+
+# Logs e Caches
+*.log
+.cache/
+.eslintcache
+
+# Variáveis de ambiente
+.env
